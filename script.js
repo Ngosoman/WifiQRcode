@@ -1,6 +1,6 @@
 const img = document.querySelector('img');
 const ssid = document.querySelector('.ssid');
-const password = document.querySelector('.password'); 
+const password = document.querySelector('.password');
 const button = document.querySelector('button');
 
 function update() {
